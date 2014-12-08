@@ -6,6 +6,6 @@ __url__ = 'https://github.com/michaeljoseph/changes-test'
 __version__ = '0.0.1'
 
 
-def changes-test():
+def changes_test():
     return 'Hello World!'
 
